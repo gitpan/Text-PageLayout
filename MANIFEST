@@ -1,0 +1,13 @@
+Changes
+lib/Text/PageLayout.pm
+lib/Text/PageLayout/Page.pm
+lib/Text/PageLayout/PageElements.pm
+MANIFEST			This list of files
+MYMETA.yml
+README
+t/00-load.t
+t/01-basic.t
+t/02-callbacks.t
+t/manifest.t
+t/pod.t
+META.yml                                 Module meta-data (added by MakeMaker)
