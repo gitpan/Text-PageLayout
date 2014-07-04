@@ -1,11 +1,4 @@
 Changes
-debian/changelog
-debian/compat
-debian/control
-debian/copyright
-debian/libtext-pagelayout-perl.docs
-debian/rules
-debian/watch
 lib/Text/PageLayout.pm
 lib/Text/PageLayout/Page.pm
 lib/Text/PageLayout/PageElements.pm
@@ -15,6 +8,8 @@ README
 t/00-load.t
 t/01-basic.t
 t/02-callbacks.t
+t/03-split.t
 t/manifest.t
 t/pod.t
-META.yml                                 Module meta-data (added by MakeMaker)
+META.yml                                 Module YAML meta-data (added by MakeMaker)
+META.json                                Module JSON meta-data (added by MakeMaker)
